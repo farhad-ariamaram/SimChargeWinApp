@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "server=192.168.10.250;database=EmployeeRequestDB;User Id=EmplyUser2;Password=S33@||;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -T Tbl_SimCharge -Force
